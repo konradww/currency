@@ -1,0 +1,7 @@
+{
+    "server": "localhost",
+    "database": "TEST",
+    "username": "sa",
+    "password": "MYsql123",
+    "website": "http://www.nbp.pl/"
+}
